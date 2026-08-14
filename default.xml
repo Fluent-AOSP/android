@@ -72,7 +72,7 @@
   <project name="platform/build/blueprint" path="build/blueprint" revision="7f2058de8155b05ea3c3f8317d33bfe732cacf8b" upstream="android17-release" dest-branch="android17-release" groups="pdk,tradefed"/>
   <project name="platform/build/pesto" path="build/pesto" revision="d853447257086aec2c8ade7056ec69e4ac706e14" upstream="android17-release" dest-branch="android17-release" groups="pdk"/>
   <project name="platform/build/release" path="build/release" revision="c85f4aebe46714235599a9bd6430a0fe30c6e8d5" upstream="android17-release" dest-branch="android17-release" groups="pdk,tradefed,sysui-studio"/>
-  <project name="platform_build_soong" path="build/soong" remote="fluent" revision="3b268e97c0b2ae7174fb81e72328a768878c34cb" upstream="fluent-android17" dest-branch="fluent-android17" groups="pdk,tradefed,sysui-studio">
+  <project name="platform_build_soong" path="build/soong" remote="fluent" revision="8f3143cbb6b68c90004f13b34f28b27d07a81cc8" upstream="fluent-android17" dest-branch="fluent-android17" groups="pdk,tradefed,sysui-studio">
     <linkfile src="root.bp" dest="Android.bp"/>
     <linkfile src="bootstrap.bash" dest="bootstrap.bash"/>
   </project>
