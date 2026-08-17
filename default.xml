@@ -634,7 +634,7 @@
   <project name="platform/external/zucchini" path="external/zucchini" revision="e256025d9d9c906caba814fd7b99a311ac8b8ec1" upstream="android17-release" dest-branch="android17-release" groups="pdk"/>
   <project name="platform/external/zxing" path="external/zxing" revision="d89286b7d32c7860f796e95380b22e99618d00c1" upstream="android17-release" dest-branch="android17-release" groups="pdk"/>
   <project name="platform/frameworks/av" path="frameworks/av" revision="475269ec44acec82792be6b01fb8e16357d4d2c8" upstream="android17-release" dest-branch="android17-release" groups="pdk,sysui-studio"/>
-  <project name="platform_frameworks_base" path="frameworks/base" remote="fluent" revision="30634ab7b94629146d13f2b5ac97cb5b5dd71c6f" upstream="fluent-android17" dest-branch="fluent-android17" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
+  <project name="platform_frameworks_base" path="frameworks/base" remote="fluent" revision="30fb4c2a3e2b8ae3ff9d69598c979fae5f4e6a04" upstream="fluent-android17" dest-branch="fluent-android17" groups="pdk-cw-fs,pdk-fs,sysui-studio"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="943016fade3dbbb725c363d0dc60a6e962bd88e5" upstream="android17-release" dest-branch="android17-release" groups="pdk"/>
   <project name="platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="22f2506e585270da53cb910f6fda92395f6550c1" upstream="android17-release" dest-branch="android17-release" groups="pdk"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="4080160ebeff7fef5d5ce7062b571830c8cc937e" upstream="android17-release" dest-branch="android17-release" groups="pdk"/>
